@@ -9,7 +9,7 @@ NestJS sample 백엔드 서버. (node ^20 필요)
 > npm install
 ```
 
-### 2. Supabse 설정
+### 2. Supabase 설정
 
 Supabase에 가입한 다음 새로운 프로젝트를 생성합니다.
 
